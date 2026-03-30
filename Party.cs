@@ -7,7 +7,7 @@ public Person[] Guests(){
  new Person(sdliubg, sogb);
 }
 }
-public class Person(){
+public class Person{
 public Person(string firstName, string lastName)
  public string Firstname = {get;}
  public string Lastname = {get}
