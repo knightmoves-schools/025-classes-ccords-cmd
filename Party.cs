@@ -1,5 +1,10 @@
 ﻿namespace knightmoves;
 public class Party
 {
-    // Add your code here
+public Person(string firstName, string lastName){}
+public string[] Guests(){
+Person(sdliubg, sogb);
+Person(sdliubg, sogb);
+Person(sdliubg, sogb);
+}
 }
