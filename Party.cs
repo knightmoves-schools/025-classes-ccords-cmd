@@ -1,7 +1,7 @@
 ﻿namespace knightmoves;
 public class Party
 {
-public Person[] Guests(){
+public Person[] Guests = new Person[]{
  new Person(sdliubg, sogb),
  new Person(sdliubg, sogb),
  new Person(sdliubg, sogb)
