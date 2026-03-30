@@ -12,7 +12,8 @@ public class Person
 {
  public string Firstname = { get; }
  public string Lastname = { get; }
- public Person(string firstName, string lastName){
+ public Person(string firstName, string lastName)
+ {
  Firstname = firstName;
  Lastname = lastName;
  }
