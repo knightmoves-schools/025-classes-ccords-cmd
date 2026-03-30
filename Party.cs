@@ -8,9 +8,10 @@ public Person[] Guests(){
 }
 }
 public class Person{
-public Person(string firstName, string lastName)
  public string Firstname = {get;}
  public string Lastname = {get}
+ public Person(string firstName, string lastName){
  Firstname = firstName;
  Lastname = lastName;
+ }
 }
