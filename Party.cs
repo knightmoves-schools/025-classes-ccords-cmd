@@ -10,12 +10,12 @@ public Person[] Guests = new Person[]{
 
 public class Person
 {
- public string Firstname = { get; }
- public string Lastname = { get; }
+ public string FirstName = { get; }
+ public string LastName = { get; }
  
  public Person(string firstName, string lastName)
  {
- Firstname = firstName;
- Lastname = lastName;
+ FirstName = firstName;
+ LastName = lastName;
  }
 }
